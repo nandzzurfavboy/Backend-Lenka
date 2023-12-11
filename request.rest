@@ -1,0 +1,14 @@
+GET http://localhost:3030/api/v1/Profile
+###
+POST http://localhost:3030/api/v1/Profile
+Content-Type: application/json
+
+{
+    "name": "nanda",
+    "price": 7098070,
+    "city": "medan",
+    "phone_number": 8732737,
+    "socmed": "nandawowkowko",
+    "email": "najsnai@gmaamam.com",
+    "category": "Photographer"
+}
